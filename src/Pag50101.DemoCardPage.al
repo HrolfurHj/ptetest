@@ -1,4 +1,4 @@
-page 50101 "Demo Card Page"
+page 10039621 "Demo Card Page"
 {
     ApplicationArea = All;
     Caption = 'Demo Card Page';

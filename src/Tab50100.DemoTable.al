@@ -1,4 +1,4 @@
-table 50100 "Demo Table"
+table 10039620 "Demo Table"
 {
     Caption = 'Demo Table';
     DataClassification = ToBeClassified;

@@ -1,10 +1,10 @@
-page 50102 "Demo ListPart Page"
+page 10039622 "Demo ListPart Page"
 {
     ApplicationArea = All;
     Caption = 'Demo ListPart Page';
     PageType = CardPart;
     SourceTable = "Demo Table";
-    
+
     layout
     {
         area(content)
@@ -12,7 +12,7 @@ page 50102 "Demo ListPart Page"
             group(General)
             {
                 Caption = 'General';
-                
+
                 field(Name; Rec.Name)
                 {
                     ToolTip = 'Specifies the value of the Name field.';
