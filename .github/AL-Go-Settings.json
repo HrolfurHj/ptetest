@@ -2,5 +2,6 @@
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
   "artifact": "bcartifacts/onprem/21.4/is/latest",
-  "licenseFileUrlSecretName": "LICENSEFILEBC21"
+  "licenseFileUrlSecretName": "LICENSEFILEBC21",
+  "enablePerTenantExtensionCop": false
 }
