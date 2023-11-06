@@ -1,4 +1,6 @@
 {
   "type": "PTE",
-  "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main"
+  "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
+  "artifact": "bcartifacts/onprem/21.4/is/latest",
+  "licenseFileUrlSecretName": "LicenseFileUrl"
 }
